@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { ItemLink, Item, Title, MetaWrapper, Image } from "./FilmCard.styled";
+import { Item, Title, MetaWrapper, Image } from "./FilmCard.styled";
 import { GenerateGenres } from "../Genres/GenerateGenres";
 
 const FilmCard = ({ itemData }) => {
