@@ -1,13 +1,27 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.088c998c.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.458cacaf.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.da8a9370.js",
+    "static/js/634.3c7cfaa2.chunk.js": "/goit-react-hw-05-movies/static/js/634.3c7cfaa2.chunk.js",
+    "static/js/297.1beec301.chunk.js": "/goit-react-hw-05-movies/static/js/297.1beec301.chunk.js",
+    "static/js/763.d23055f1.chunk.js": "/goit-react-hw-05-movies/static/js/763.d23055f1.chunk.js",
+    "static/js/992.2eeea607.chunk.js": "/goit-react-hw-05-movies/static/js/992.2eeea607.chunk.js",
+    "static/js/109.19b61bb9.chunk.js": "/goit-react-hw-05-movies/static/js/109.19b61bb9.chunk.js",
+    "static/js/415.b959e958.chunk.js": "/goit-react-hw-05-movies/static/js/415.b959e958.chunk.js",
+    "static/js/881.03456006.chunk.js": "/goit-react-hw-05-movies/static/js/881.03456006.chunk.js",
+    "static/js/602.c3204c09.chunk.js": "/goit-react-hw-05-movies/static/js/602.c3204c09.chunk.js",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.088c998c.css.map": "/goit-react-hw-05-movies/static/css/main.088c998c.css.map",
-    "main.458cacaf.js.map": "/goit-react-hw-05-movies/static/js/main.458cacaf.js.map"
+    "main.da8a9370.js.map": "/goit-react-hw-05-movies/static/js/main.da8a9370.js.map",
+    "634.3c7cfaa2.chunk.js.map": "/goit-react-hw-05-movies/static/js/634.3c7cfaa2.chunk.js.map",
+    "297.1beec301.chunk.js.map": "/goit-react-hw-05-movies/static/js/297.1beec301.chunk.js.map",
+    "109.19b61bb9.chunk.js.map": "/goit-react-hw-05-movies/static/js/109.19b61bb9.chunk.js.map",
+    "415.b959e958.chunk.js.map": "/goit-react-hw-05-movies/static/js/415.b959e958.chunk.js.map",
+    "881.03456006.chunk.js.map": "/goit-react-hw-05-movies/static/js/881.03456006.chunk.js.map",
+    "602.c3204c09.chunk.js.map": "/goit-react-hw-05-movies/static/js/602.c3204c09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.088c998c.css",
-    "static/js/main.458cacaf.js"
+    "static/js/main.da8a9370.js"
   ]
 }
