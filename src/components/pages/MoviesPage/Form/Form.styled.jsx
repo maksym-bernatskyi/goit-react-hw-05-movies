@@ -38,7 +38,7 @@ export const Input = styled.input`
     }
 `;
 
-export const InfoSearch = styled(BsArrowRightCircle)`
+export const IconSearch = styled(BsArrowRightCircle)`
     color: #ffffff;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     &:hover {
