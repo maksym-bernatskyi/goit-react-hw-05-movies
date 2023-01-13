@@ -20,8 +20,9 @@ const MovieDetailsPage = () => {
             setFilm(data);
         }).finally(() => {
             Loading.remove();
+            setPrevLocation(prevLocation);
         });
-    }, [id]);
+    }, [id, prevLocation]);
 
     return (
         <>
